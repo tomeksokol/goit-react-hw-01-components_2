@@ -21,7 +21,7 @@ const App = () => {
         <div>
           <h1>Task 1 - social media profile</h1>
           <a
-            href="https://github.com/tomeksokol/goit-react-hw-01-components/tree/main/src/components/task1_profile"
+            href="https://github.com/tomeksokol/goit-react-hw-01-components_2/tree/main/src/components/profile"
             target="_blank"
             rel="noreferrer">
             Link to GitHub
@@ -41,7 +41,7 @@ const App = () => {
         <div>
           <h1 className="task-header">Task 2 - statistics</h1>
           <a
-            href="https://github.com/tomeksokol/goit-react-hw-01-components/tree/main/src/components/task2_statistics"
+            href="https://github.com/tomeksokol/goit-react-hw-01-components_2/tree/main/src/components/statistics"
             target="_blank"
             rel="noreferrer">
             Link to GitHub
@@ -54,7 +54,7 @@ const App = () => {
         <div>
           <h1 className="task-header">Task 3 - Friends</h1>
           <a
-            href="https://github.com/tomeksokol/goit-react-hw-01-components/tree/main/src/components/task3_friends"
+            href="https://github.com/tomeksokol/goit-react-hw-01-components_2/tree/main/src/components/friends"
             target="_blank"
             rel="noreferrer">
             Link to GitHub
@@ -66,7 +66,7 @@ const App = () => {
         <div>
           <h1 className="task-header">Task 4 - Transactions</h1>
           <a
-            href="https://github.com/tomeksokol/goit-react-hw-01-components/tree/main/src/components/task4_transactions"
+            href="https://github.com/tomeksokol/goit-react-hw-01-components_2/tree/main/src/components/transactions"
             target="_blank"
             rel="noreferrer">
             Link to GitHub
